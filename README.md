@@ -1,3 +1,4 @@
 # Bienvenidos-a-mi-Github
 Embellecer mi Github
-https://open.spotify.com/playlist/37i9dQZF1DWTSkZ0cxkrLT?si=dcd320bab0dc4ad4
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=21g52fkncnbz3yvcp5tjdur3i&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://spotify-github-profile.vercel.app/api/view?uid=21g52fkncnbz3yvcp5tjdur3i&redirect=true)
