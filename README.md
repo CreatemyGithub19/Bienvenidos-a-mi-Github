@@ -3,8 +3,7 @@ Aquí hay buena música
 
 ![image](https://github.com/CreatemyGithub19/Bienvenidos-a-mi-Github/assets/111789906/2eb2539c-871b-40f7-811b-73da7b3d7bda)
 
-Bueno apenas estoy aprendiendo, más adelante será mejor! solo tendrán que hacer click en la imágen del ícono del Spotify
-Perdón, soy apenas una estudiante
+                               click on the hyperlink
 
 https://open.spotify.com/playlist/37i9dQZF1DWTSkZ0cxkrLT?si=c419d7fc51534453
 
